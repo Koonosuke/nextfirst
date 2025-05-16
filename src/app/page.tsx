@@ -2,7 +2,7 @@ const key = process.env.SAMPLE_SECRET_KEY;
 const page = () => {
   return (
     <div>
-      Next.jsヤッホー github actionsで自動デプロイ開始→デプロイなう
+      Next.jsヤッホー github actionsで自動デプロイ開始→デプロイなう 確認
       <p> 環境変数:{key}</p>
     </div>
   );
